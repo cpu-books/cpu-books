@@ -1,3 +1,12 @@
+## 『게임 개발 튜토리얼』 실습용 리소스 목록
+### [2️⃣ Display](https://github.com/cpu-books/display)
+### [3️⃣ Event](https://github.com/cpu-books/event)
+### [5️⃣ Physics](https://github.com/cpu-books/physics)
+### [6️⃣ 공룡게임](https://github.com/cpu-books/dino-game)
+
+<br>
+<br>
+
 ![카드뉴스_완성_1](https://user-images.githubusercontent.com/98272969/221406267-c2bb40a0-4ee0-4842-8db5-8a4598e1bec1.jpg)
 ![카드뉴스_완성_2](https://user-images.githubusercontent.com/98272969/221406272-653e38b2-5d6a-45dd-b1da-9c9480391d90.jpg)
 ![카드뉴스_완성_3](https://user-images.githubusercontent.com/98272969/221406273-b026795b-62d5-4b36-8cb6-e40556473458.jpg)
